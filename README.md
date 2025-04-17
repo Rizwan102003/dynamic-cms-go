@@ -19,14 +19,10 @@ A **Dynamic Content Management System (CMS)** built with **Golang** and the **Gi
 2. Install dependencies:
 
 ```sh
-Copy
-Edit
 go mod tidy
 ```
 
 3. Run the server:
 
 ```sh
-Copy
-Edit
 go run main.go
